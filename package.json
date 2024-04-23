@@ -1,0 +1,21 @@
+{
+  "name": "kafka-rca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello there\""
+  },
+  "keywords": [
+    "Node.js",
+    "mongoose",
+    "express",
+    "kafkajs"
+  ],
+  "author": "Manisha Jadhav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "kafkajs": "^2.2.4"
+  }
+}
